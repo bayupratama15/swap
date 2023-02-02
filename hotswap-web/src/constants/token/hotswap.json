@@ -1,0 +1,63 @@
+{
+  "name": "catvillscoinswap",
+  "timestamp": "2020-10-26T11:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 3
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wbnb.png",
+  "keywords": [
+    "catvillscoin",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "CatVills Coin",
+      "symbol": "CATVILLS",
+      "address": "0xa531a733070a5fF4866D1327d82e403Fa35290A6",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "/images/coins/catvill.jpg"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/USDT-icon.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/USDC.png"
+    },
+    {
+      "name": "Trust Wallet",
+      "symbol": "TWT",
+      "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+      "chainId": 56,
+      "decimals": 18
+    }
+  ]
+}
